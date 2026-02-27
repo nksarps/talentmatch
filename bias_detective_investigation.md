@@ -1,7 +1,6 @@
 # Bias Investigation Report: TalentMatch AI HireScore System
 
 **Investigator:** Nana Kwaku Sarpong
-**System Under Review:** HireScore AI Applicant Ranking Tool  
 
 ## Executive Summary
 

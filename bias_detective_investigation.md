@@ -94,7 +94,7 @@
 | Years of experience | **LOW** | Directly job-relevant; bias only if measured inconsistently |
 | Skills listed | **LOW** | Most direct measure of job qualification |
 
-## Task 4: Mitigation Plan
+## Mitigation Plan
 
 ### Immediate Actions (This Week)
 
